@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @maansiii
 - 👀 I’m interested in Web Development
 - 🌱 I’m currently exploring Node js
-- 💞️ I’m looking to collaborate on any Web development or application that uses Java, Node js and Python
+- 💞️ I’m looking to collaborate with any organization of Web development or application that uses Java, Node js and Python
 
 
 <!---
