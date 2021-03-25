@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @maansiii
+- 👋 Hi, I’m Mansi
 - 👀 I’m interested in Web Development
 - 🌱 I’m currently exploring ML field
 - 💞️ I’m looking to collaborate with any organization of Web development or application that uses Java, Node js and Python
