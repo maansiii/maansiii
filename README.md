@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mansi Singh</h1>
-<h3 align="center">I like to code and learn new tech stack, currently I'm learning Data Science and Machine Learning. Besides programming I like to read business case studies</h3>
+<h3 align="center">I like to code and learn new tech stack. Besides programming enjoy reading business case studies.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=maansiii&label=Profile%20views&color=0e75b6&style=flat" alt="maansiii" /> </p>
 
