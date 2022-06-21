@@ -5,7 +5,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=maansiii" alt="maansiii" /></a> </p>
 
-- 📫 If you wanna work with me or drop in some ideas/suggestion then mail me- **maansiisinghh@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
