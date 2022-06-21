@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mansi Singh</h1>
-<h3 align="center">I like to code and learn new tech stack. Besides programming enjoy reading business case studies.</h3>
+<h3 align="center">I am a person who likes to solve challenging problems and explore new technologies. I'm deeply passionate about software development & innovation. Besides this, I also have a keen interest in the business domain.</h3>
 <h3 align="center"> <a href="https://maansiii.github.io/portfolio/"> Here is my portfolio </h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=maansiii&label=Profile%20views&color=0e75b6&style=flat" alt="maansiii" /> </p>
 
